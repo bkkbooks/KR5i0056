@@ -1,0 +1,86 @@
+canonical_identifier: bkk:krp/KR5i0056/v1
+canonical_location: https://kanripo.org/bkk/KR5i0056/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 天仙金丹心法
+  identifiers:
+    alt_id:
+    - JY171
+  date: '2015-08-29 17:53:48.813424'
+  source:
+    repository: kanripo
+    path: KR5i0056
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  base_edition: CK-KZ
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: CK-KZ
+  label: 【重刊道藏輯要】
+- short: CK-KZ-jye
+- short: YP-C
+  label: 【原版道藏輯要】
+- short: KR5i0056
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0056_001.yaml, hash: 'sha256:6cff25eeb865ee24af6d1d23cf45298cf8b64192585a21c8dfc1f4ae076703ab'}
+  - {seq: 2, filename: KR5i0056_002.yaml, hash: 'sha256:3c491854a3d4803e1d611c27fc3bf5c5aeb2fda52062afc2783e7380530f9c23'}
+  - {seq: 3, filename: KR5i0056_003.yaml, hash: 'sha256:50907303ef86aa486e36ea1e102cff1d146e48f3ffc4f175572bf3f9b1a95f99'}
+  - {seq: 4, filename: KR5i0056_004.yaml, hash: 'sha256:d859e2f7ff7504461de32ea6b48ea9b4e01b60f443baab3b057c8b3ca3a2c252'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0056_001.markers.yaml, hash: 'sha256:6d3ad8cebfb836b9142d500e22bda9259fed678fb7b55a182e7a47aeb9361350'}
+  - {seq: 2, role: markers, filename: assets/KR5i0056_002.markers.yaml, hash: 'sha256:657c1c12c0ac9180600d1cf92b15b3f79c0038bfc17c175b40a155cfaabdf381'}
+  - {seq: 3, role: markers, filename: assets/KR5i0056_003.markers.yaml, hash: 'sha256:bd1a3b849fe97a1112fb5ee757f6fa158ece4f11c19aa370d6a857fff4f7bd0e'}
+  - {seq: 4, role: markers, filename: assets/KR5i0056_004.markers.yaml, hash: 'sha256:1904a8530b9445e87cc6bafd4e04a9c95c43421f78ac2154514ed09cebe01db1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0056_01p001a
+    span:
+    - body
+    - 0
+    - 78
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-KZ_KR5i0056_02p001a
+    span:
+    - body
+    - 0
+    - 8133
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: CK-KZ_KR5i0056_03p001a
+    span:
+    - body
+    - 0
+    - 17146
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: CK-KZ_KR5i0056_04p001a
+    span:
+    - body
+    - 0
+    - 24908
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:059b5f318de24f24f843f570d47e75e9013a6cd14cae21442e40bb243b0f55a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

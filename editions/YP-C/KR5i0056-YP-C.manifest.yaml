@@ -1,0 +1,73 @@
+canonical_identifier: bkk:krp/KR5i0056/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5i0056/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天仙金丹心法
+  date: '2015-08-29 17:53:48.813424'
+  source:
+    repository: kanripo
+    path: KR5i0056
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0056_001-YP-C.yaml, hash: 'sha256:a36130756cd748f8826768d56d05b5a3d5ad279e1fad4c99c9a4e1d84be6d1b7'}
+  - {seq: 2, filename: KR5i0056_002-YP-C.yaml, hash: 'sha256:0403d23e824bde5f33db1b7f597a300fdbe5062012e2ab888ce81f4be59ae6f5'}
+  - {seq: 3, filename: KR5i0056_003-YP-C.yaml, hash: 'sha256:4a6c281f13a721e77ff422b6269e539fe89a077128bc4a41703c7f29275c3f2c'}
+  - {seq: 4, filename: KR5i0056_004-YP-C.yaml, hash: 'sha256:4a869ecb82385b67b0df9d889507594fd8e479841d67b1599775f64aa9ad7221'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0056_001-YP-C.markers.yaml, hash: 'sha256:398d4acbeffea4783cc9a95ae75363e693d8db6d1dea152f7576478284241954'}
+  - {seq: 2, role: markers, filename: assets/KR5i0056_002-YP-C.markers.yaml, hash: 'sha256:466afb5a0e08c177f4fdc4062ce5b0720f95aacf1af84195c6e91b8ea4c07473'}
+  - {seq: 3, role: markers, filename: assets/KR5i0056_003-YP-C.markers.yaml, hash: 'sha256:f26f957b653f6bf50313961a9fcb5fac10820ad466f8cea9b59e70dc1e17e711'}
+  - {seq: 4, role: markers, filename: assets/KR5i0056_004-YP-C.markers.yaml, hash: 'sha256:2c5c388e1462adb2e25edea53e6b6044036610e25da60a9d55782ee23bb73b8f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: YP-C_KR5i0056_14biji-06-0001a
+    span:
+    - body
+    - 0
+    - 77
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: YP-C_KR5i0056_14biji-06-0002a
+    span:
+    - body
+    - 0
+    - 8133
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: YP-C_KR5i0056_14biji-06-0024a
+    span:
+    - body
+    - 0
+    - 17146
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: YP-C_KR5i0056_14biji-06-0072b
+    span:
+    - body
+    - 0
+    - 24908
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:20feed9902318fe2569dc024a7f753845e3da54672b7f383d2062d4068942962

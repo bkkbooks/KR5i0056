@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0056/YP-C/v1/juan/1
+seq: 1
+front:
+  text: 重刋道藏輯要
+  hash: sha256:972c3c5029b24a17e27f2b03a7e86d4422a7e71d4455eb70dca445dd908b9848
+  markers:
+  - {type: page-break, offset: 0, content: '', id: YP-C_KR5i0056_14biji-06-0001a}
+body:
+  text: 金丹心法目錄第一立志第二端品第三悔過第四遷善第五築基第六煉已第七安爐第八採藥下第九起火第十息火第十一結胎第十二養嬰第十三積行第十四行功第十五面壁第十六飛昇
+  hash: sha256:563cee747e4f60cf271831725c305db270e5df94c2cbc6ed98cbc78127340805
+metadata:
+  title: 天仙金丹心法
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 17:53:48.813424'
+  source:
+    repository: kanripo
+    path: KR5i0056/KR5i0056_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:a36130756cd748f8826768d56d05b5a3d5ad279e1fad4c99c9a4e1d84be6d1b7

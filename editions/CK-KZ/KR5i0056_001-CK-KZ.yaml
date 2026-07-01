@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0056/CK-KZ/v1/juan/1
+seq: 1
+front:
+  text: 天仙金丹心法重刋道藏輯要
+  hash: sha256:6da85138db50f6cb09ebb25e977c068149760fc6b870491d9cd90fe8025ee6d3
+  markers:
+  - {type: page-break, offset: 6, content: '', id: CK-KZ_KR5i0056_01p001a}
+body:
+  text: 金丹心法目錄第一立志第二端品第三悔過第四遷善第五築基第六煉已第七安爐第八採藥下第九起火第十息火第十一結胎第十二養嬰第十三積行第十四行功第十五面壁第十六飛昇無
+  hash: sha256:bd3d911350bf9442b9d1c2edd2b76b7e7db7eda5aeda45e9ea29a4e6917a5d6a
+metadata:
+  title: 天仙金丹心法
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 17:53:48.813424'
+  source:
+    repository: kanripo
+    path: KR5i0056/KR5i0056_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:04c27692fb07d5aa3f5bb3291b482243a486f86058bab211a7918113cb6fc181
