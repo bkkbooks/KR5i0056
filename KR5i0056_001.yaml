@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 6, content: '', id: CK-KZ_KR5i0056_01p001a}
 body:
-  text: 金丹心法目録第一立志第二端品第三悔過第四遷善第五築基第六煉已第七安爐第八採藥下第九起火第十息火第十一結胎第十二養嬰第十三積行第十四行功第十五面壁第十六飛升無
-  hash: sha256:cc5f27a57202f147a2ea25f44e51ddf165c59d513201dae1df224db66fcaecf7
+  text: 金丹心法目錄第一立志第二端品第三悔過第四遷善第五築基第六煉已第七安爐第八採藥下第九起火第十息火第十一結胎第十二養嬰第十三積行第十四行功第十五面壁第十六飛昇無
+  hash: sha256:bd3d911350bf9442b9d1c2edd2b76b7e7db7eda5aeda45e9ea29a4e6917a5d6a
 metadata:
   title: 天仙金丹心法
   edition:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:6cff25eeb865ee24af6d1d23cf45298cf8b64192585a21c8dfc1f4ae076703ab
+hash: sha256:1e56b144d22a40a4416adab994ec4433fef06deb956aeb81ee3b31677bee33f2
