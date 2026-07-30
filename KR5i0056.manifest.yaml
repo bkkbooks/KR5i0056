@@ -31,12 +31,12 @@ editions:
 assets:
   parts:
   - {seq: 1, filename: KR5i0056_001.yaml, hash: 'sha256:6cff25eeb865ee24af6d1d23cf45298cf8b64192585a21c8dfc1f4ae076703ab'}
-  - {seq: 2, filename: KR5i0056_002.yaml, hash: 'sha256:38193f941a22ebd197a849ba25b10e1df3282b0efdc78e907d9f9c35cc577556'}
+  - {seq: 2, filename: KR5i0056_002.yaml, hash: 'sha256:1f9bf1c498d5801c8bdaa626f0f4a9c1084481f87463dc62dd4d5944dec4e6ce'}
   - {seq: 3, filename: KR5i0056_003.yaml, hash: 'sha256:b42fd640a620dfe1f826a3af9ab8d8a583cca2c29519fd8a9149310d3172e6a9'}
   - {seq: 4, filename: KR5i0056_004.yaml, hash: 'sha256:fbea7b61e0caaa6320a772f5c1b112706bba2de891f102abf2badf19359b004e'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR5i0056_001.markers.yaml, hash: 'sha256:1a7a818c7580c82f3372a8666fd2df79fce295f3d0b9cacf98d19cb889547601'}
-  - {seq: 2, role: markers, filename: assets/KR5i0056_002.markers.yaml, hash: 'sha256:83b77f51ac49c6234cbad5516bf45aaac2389430f41b91bd07d3cdd2589e1bb3'}
+  - {seq: 2, role: markers, filename: assets/KR5i0056_002.markers.yaml, hash: 'sha256:547dad63796bee9c069cccd672cf3e3954a7319031bc5b6ee123f522b27b299a'}
   - {seq: 3, role: markers, filename: assets/KR5i0056_003.markers.yaml, hash: 'sha256:1c06c96a8b23d000476cd3b8ca03d0651a2b5386f8ae8f7fadf84342489ec34e'}
   - {seq: 4, role: markers, filename: assets/KR5i0056_004.markers.yaml, hash: 'sha256:08c88bf76eab5c15e827690389152a8ebdf871ce905d2f8b05f337a92fdcdf57'}
 table_of_contents:
@@ -55,8 +55,8 @@ table_of_contents:
     marker_id: CK-KZ_KR5i0056_02p001a
     span:
     - body
-    - 0
-    - 8133
+    - 460
+    - 8593
   label: juan 002
   type: section
   level: 1
@@ -80,7 +80,7 @@ table_of_contents:
   label: juan 004
   type: section
   level: 1
-hash: sha256:7f7489aba0e6d904f366575b69ba5cfc30e158a9d12038d889c68cbd96539892
+hash: sha256:2456756f202f61786a1b34a322a2699d00a9c954803c49c877c7b6aeeac5934e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

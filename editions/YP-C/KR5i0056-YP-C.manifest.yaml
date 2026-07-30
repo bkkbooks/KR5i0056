@@ -21,12 +21,12 @@ entity_encoding:
 assets:
   parts:
   - {seq: 1, filename: KR5i0056_001-YP-C.yaml, hash: 'sha256:a36130756cd748f8826768d56d05b5a3d5ad279e1fad4c99c9a4e1d84be6d1b7'}
-  - {seq: 2, filename: KR5i0056_002-YP-C.yaml, hash: 'sha256:0403d23e824bde5f33db1b7f597a300fdbe5062012e2ab888ce81f4be59ae6f5'}
+  - {seq: 2, filename: KR5i0056_002-YP-C.yaml, hash: 'sha256:10c0af3dd4578cb380d8c876a151dd579c1bcf21c9a2034bb5b82a606fbac412'}
   - {seq: 3, filename: KR5i0056_003-YP-C.yaml, hash: 'sha256:4a6c281f13a721e77ff422b6269e539fe89a077128bc4a41703c7f29275c3f2c'}
   - {seq: 4, filename: KR5i0056_004-YP-C.yaml, hash: 'sha256:4a869ecb82385b67b0df9d889507594fd8e479841d67b1599775f64aa9ad7221'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR5i0056_001-YP-C.markers.yaml, hash: 'sha256:398d4acbeffea4783cc9a95ae75363e693d8db6d1dea152f7576478284241954'}
-  - {seq: 2, role: markers, filename: assets/KR5i0056_002-YP-C.markers.yaml, hash: 'sha256:46549cb15b5a9b52a3536464c6d6a5c924b2c374a91bf53f5ecf68527aa1a3c5'}
+  - {seq: 2, role: markers, filename: assets/KR5i0056_002-YP-C.markers.yaml, hash: 'sha256:23177ae5d48b8b7d4a009d4dcc5ccb7f3ed5fae4844d7ab3dae882fa50ff78f4'}
   - {seq: 3, role: markers, filename: assets/KR5i0056_003-YP-C.markers.yaml, hash: 'sha256:34664ccc55214715167178c0cc3dbd973d0c7e0ad5c307bf217f27df2d01113c'}
   - {seq: 4, role: markers, filename: assets/KR5i0056_004-YP-C.markers.yaml, hash: 'sha256:0e09439730169ac8551220e13923ce49d30f47ae0dc7500dc33b7349dac8f001'}
 table_of_contents:
@@ -45,8 +45,8 @@ table_of_contents:
     marker_id: YP-C_KR5i0056_14biji-06-0002a
     span:
     - body
-    - 0
-    - 8133
+    - 454
+    - 8587
   label: juan 002
   type: section
   level: 1
@@ -70,4 +70,4 @@ table_of_contents:
   label: juan 004
   type: section
   level: 1
-hash: sha256:effe9d76a68e46d69f576bcedee725fa125f05f6cf1e4afa6163fc0da56a7810
+hash: sha256:0b7d714b748897d1a8f7284e96376cd15fe6501240962ec8730e54b649235394
